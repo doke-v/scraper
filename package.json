@@ -1,0 +1,17 @@
+{
+  "name": "horoscrope-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "action.js",
+  "dependencies": {
+    "axios": "0.21.1",
+    "cheerio": "1.0.0-rc.10",
+    "lowdb": "1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node scripts/action.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
